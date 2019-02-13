@@ -1,2 +1,2 @@
 # testrepository
-judst for test
+just for test
